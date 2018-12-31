@@ -9,9 +9,6 @@ from keras.datasets import mnist
 from matplotlib import pyplot as plt
 from keras.callbacks import EarlyStopping
 
-
-
-
 def pre():
     # load dataset for number classification from the keras dataset(line 8)
     # split the loaded data into training and test/validation set
