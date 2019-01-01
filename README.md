@@ -47,6 +47,6 @@ Line 70 : [evaluate](https://keras.io/models/sequential/) the model on the test 
 
 Line 74-82 : plot the variation of training and validation accuracy with respect to number of epochs with the help of plt from matplotlib.pyplot
 
-
+The number of layers to be added, number of filters, filter size, dropout value are not fixed they are different for different problems they should be selected according to the dataset.
 
 
